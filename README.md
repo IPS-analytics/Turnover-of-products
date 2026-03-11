@@ -1,4 +1,4 @@
-# Turnover of products
+# Retail Inventory Analysis
 ## Problem:
 
 - Retail inventory often suffers from slow-moving products and inefficient stock allocation, leading to capital being tied up in low-performing items.
